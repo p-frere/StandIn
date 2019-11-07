@@ -22,17 +22,17 @@ If the application doesn't work please refer to the following screen shots for p
 
 ##### Sign in page:
 
-![image-20191107195351503](/home/pea/.config/Typora/typora-user-images/image-20191107195351503.png) 
+![image-20191107195351503](StandinForWebsite.assets/mage-20191107195351503.png) 
 
 
 
 - Ability to login via a pop up
 
-![image-20191107195405571](/home/pea/.config/Typora/typora-user-images/image-20191107195405571.png)
+![image-20191107195405571](StandinForWebsite.assets/image-20191107195405571.png)
 
 - Ability to sign up via a pop up
 
-![image-20191107195416662](/home/pea/.config/Typora/typora-user-images/image-20191107195416662.png)
+![image-20191107195416662](StandinForWebsite.assets/image-20191107195416662.png)
 
 
 
