@@ -22,7 +22,7 @@ If the application doesn't work please refer to the following screen shots for p
 
 ##### Sign in page:
 
-![image-20191107195351503](StandinForWebsite.assets/mage-20191107195351503.png) 
+![image-20191107195351503](StandinForWebsite.assets/image-20191107195351503.png) 
 
 
 
